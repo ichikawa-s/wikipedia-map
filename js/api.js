@@ -6,8 +6,9 @@
 
 // GLOBALS
 
-var api_endpoint = "https://wikipedia-map.now.sh/";
-
+// var api_endpoint = "https://wikipedia-map.now.sh/";
+// api server location ( virtualbox ip for develop )
+var api_endpoint = "http://192.168.56.4:3000/";
 
 
 // BASIC METHODS
