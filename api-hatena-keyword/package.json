@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-hatena-keyword",
+  "version": "1.0.0",
+  "description": "make similar keyword map by hatena api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ichikawa-s",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "prettyjson": "^1.2.1",
+    "xml2json": "^0.11.0",
+    "xmlrpc": "^1.3.2"
+  }
+}
