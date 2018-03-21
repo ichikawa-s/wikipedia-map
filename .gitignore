@@ -12,3 +12,6 @@ dev
 graphs/*.json
 
 node_modules
+
+# Don't include eclipse project file
+.project
