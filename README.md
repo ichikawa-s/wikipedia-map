@@ -4,7 +4,7 @@ This is a forked project from [controversial/wikipedia-map](https://github.com/c
 
 And under construction...
 
-Use [hatena keyword api](http://developer.hatena.ne.jp/ja/documents/keyword/apis/association) instead of wikipedia article.
+Use [hatena similar keyword api](http://developer.hatena.ne.jp/ja/documents/keyword/apis/association) instead of wikipedia article.
 
 - [hatena similar keyword api](http://developer.hatena.ne.jp/ja/documents/keyword/apis/association)
 
